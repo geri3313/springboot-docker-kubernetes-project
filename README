@@ -1,0 +1,16 @@
+Java Maven project with Spring Boot and an embedded Tomcat server that returns a random number
+
+
+Created Docker image using the Dockerfile
+
+Pushed the image in GitHub using Git Actions
+
+Created the application service and deployment in a cluster using Kubernetes (yaml files)
+
+Created the Grafana and Prometheus service using NodePort
+
+Logs are being saved locally in a folder located at the root of the project.
+
+
+
+
